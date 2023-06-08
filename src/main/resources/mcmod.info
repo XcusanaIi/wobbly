@@ -1,0 +1,16 @@
+[
+{
+  "modid": "wobbly",
+  "name": "Wobbly",
+  "description": "Jam!",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["XcusanaIi"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
